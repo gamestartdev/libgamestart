@@ -1,3 +1,8 @@
+'''
+* Copyright (c) 2013-2015 GameStart LLC
+* Distributed under the GNU GPL v2. For full terms see the file LICENSE.
+'''
+
 import socket
 import mcpi.minecraft as minecraft
 from mcpi.block import *
